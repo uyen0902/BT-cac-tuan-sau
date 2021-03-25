@@ -30,4 +30,5 @@ int main()
 	cout << fm << endl;
 	return 0;
 }
-
+// dequy chay nhanh hon vong lap
+// tu n=45 tro di chuong trinh chay lau
